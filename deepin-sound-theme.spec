@@ -4,7 +4,7 @@ Release:        1
 Summary:        Deepin sound theme
 License:        GPLv3
 URL:            https://github.com/linuxdeepin/deepin-sound-theme
-Source0:        https://mirror.deepines.com/deepin/pool/main/d/deepin-sound-theme/%{name}_%{version}.orig.tar.xz	
+Source0:        https://mirror.deepines.com/deepin/pool/main/d/%{name}/%{name}_%{version}.orig.tar.xz	
 BuildArch:      noarch
 
 %description
